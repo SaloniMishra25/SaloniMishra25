@@ -1,23 +1,57 @@
-# Hi, I’m Saloni Mishra! 👋
+# 👋 Hi, I'm Saloni Mishra
 
-## About Me
-I am a final-year student at Babulal Tarabai Institute of Research and Technology. I enjoy working on web development and have learned skills like:
+Aspiring **Software Developer**.  
+Focused on mastering modern technologies and building a strong tech career in the next few years.  
+I love learning, creating real-world projects, and constantly improving myself.
 
-- HTML
-- CSS
-- JavaScript
-- React
-- Bootstrap
-- Tailwind
-- Java
-- Git
 
-I’m always trying to improve and learn new things to become better in my field.
 
-## Career Goals
-My goal is to work at a reputable company where I can utilize my skills, learn more, and work on interesting projects. I aspire to enhance my knowledge in both front-end and back-end development and become an expert someday.
+ 🔧 Tech Stack
 
-## Hobbies
-Apart from coding, I really love dancing. I’m not a professional, but it makes me happy and helps me stay active. I also hope to travel more in the future, as it’s something I’ve always wanted to do.
+### **Frontend**
+- HTML  
+- CSS  
+- Bootstrap  
+- JavaScript  
+- React  
+- Tailwind CSS  
+- Next.js  
+- Redux
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/salonimishra24/)!
+### **Backend**
+- Node.js  
+- Express
+
+### **Database**
+- MongoDB
+
+### **Tools**
+- Git & GitHub  
+- TypeScript
+
+---
+
+## 🚀 Goals  
+- Become a skilled **Software Developer**  
+- Master advanced technologies  
+- Work in a top tech company  
+- Travel the world and explore opportunities globally  
+- Build real projects that help people
+
+---
+
+## 📈 GitHub Stats  
+
+![Saloni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaloniMishra25&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaloniMishra25&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me  
+🌐 Portfolio (coming soon…)
+
+---
+
+⭐ **Thanks for visiting my profile!**  
+Feel free to explore my repositories.
