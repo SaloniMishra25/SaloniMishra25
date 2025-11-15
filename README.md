@@ -17,6 +17,7 @@ I love learning, creating real-world projects, and constantly improving myself.
 - Tailwind CSS  
 - Next.js  
 - Redux
+- TypeScript
 
 ### **Backend**
 - Node.js  
@@ -24,10 +25,10 @@ I love learning, creating real-world projects, and constantly improving myself.
 
 ### **Database**
 - MongoDB
+- MySQL
 
 ### **Tools**
 - Git & GitHub  
-- TypeScript
 
 ---
 
@@ -50,6 +51,7 @@ I love learning, creating real-world projects, and constantly improving myself.
 
 ## 📫 Connect With Me  
 🌐 Portfolio (coming soon…)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/salonimishra24/)
 
 ---
 
