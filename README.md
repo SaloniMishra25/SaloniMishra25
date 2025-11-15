@@ -49,10 +49,11 @@ I love learning, creating real-world projects, and constantly improving myself.
 
 ---
 
-## 📫 Connect With Me  
-🌐 Portfolio (coming soon…)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/salonimishra24/)
+## 📫 Connect With Me   
 
+🌐 **Portfolio** — Coming Soon…  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/salonimishra24/)
 ---
 
 ⭐ **Thanks for visiting my profile!**  
